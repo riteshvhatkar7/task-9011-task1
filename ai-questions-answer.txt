@@ -1,0 +1,410 @@
+Q.1. ChatGPT is developed by which company?
+Answer: OpenAI
+
+Q.2. Claude is developed by which AI company?
+Answer: Anthropic
+
+Q.3. Gemini is developed by which company?
+Answer: Google
+
+Q.4. Llama models are developed by which company?
+Answer: Meta
+
+Q.5. Grok is developed by which company?
+Answer: xAI
+
+Q.6. Mistral AI is headquartered in which country?
+Answer: USA
+
+Q.7. What is OpenAI's flagship GPT-6 frontier model?
+Answer: GPT-6 Astra
+
+Q.8. Which OpenAI model is lower-cost for coding and professional work?
+Answer: GPT-6 Luna
+
+Q.9. What is Anthropic's latest Haiku model called?
+Answer: Claude Haiku 5.5
+
+Q.10. What is Google's latest flagship Gemini model called?
+Answer: Gemini 4 Argon
+
+Section B - Generative AI & LLM Concepts
+
+Q.11. What does LLM stand for?
+Answer: Large Language Model
+
+Q.12. What is Generative AI?
+Answer: AI that creates new content.
+
+Q.13. What is a prompt?
+Answer: An instruction or question given to AI.
+
+Q.14. What is a system prompt?
+Answer: An instruction that guides AI behavior.
+
+Q.15. What is an AI hallucination?
+Answer: When AI gives false information as fact.
+
+Q.16. What is a token in an LLM?
+Answer: A small unit of text.
+
+Q.17. What is a context window?
+Answer: Information an AI can process at one time.
+
+Q.18. What is inference in AI?
+Answer: Using a trained model to make predictions.
+
+Q.19. What is fine-tuning?
+Answer: Further training a model for a specific task.
+
+Q.20. What does multimodal AI mean?
+Answer: AI that handles different types of data.
+
+Section C - Agents, RAG & Modern AI Development
+
+Q.21. What is an AI agent?
+Answer: An AI system that performs tasks to achieve a goal.
+
+Q.22. Difference between a chatbot and an AI agent?
+Answer: A chatbot responds; an agent can take actions.
+
+Q.23. What does RAG stand for?
+Answer: Retrieval-Augmented Generation
+
+Q.24. Why is RAG used with LLMs?
+Answer: To provide relevant external information.
+
+Q.25. What is an embedding?
+Answer: A numerical representation of data.
+
+Q.26. What is a vector database used for?
+Answer: Storing embeddings and finding similar information.
+
+Q.27. What does tool calling allow AI to do?
+Answer: Use external tools or functions.
+
+Q.28. What does MCP stand for?
+Answer: Model Context Protocol
+
+Q.29. What is an API key used for?
+Answer: To authenticate API access.
+
+Q.30. What is an agentic workflow?
+Answer: AI performing multiple steps to achieve a goal.
+
+Section D - AI Image, Video, Audio & Tools
+
+Q.31. What does Midjourney generate?
+Answer: Images
+
+Q.32. What is Sora used for?
+Answer: Video generation
+
+Q.33. What is OpenAI's image-generation model family?
+Answer: GPT Image 2.5
+
+Q.34. What is text-to-image?
+Answer: Creating images from text.
+
+Q.35. What is text-to-video?
+Answer: Creating videos from text.
+
+Q.36. What does TTS stand for?
+Answer: Text-to-Speech
+
+Q.37. What does STT stand for?
+Answer: Simple-to-Text
+
+Q.38. What does OCR do?
+Answer: Extracts text from images.
+
+Q.39. What is a vision-language model?
+Answer: AI that understands images and language.
+
+Q.40. What is voice cloning?
+Answer: Creating an AI voice that imitates a person's voice.
+
+Section E - Coding AI, Hardware & Practical Awareness
+
+Q.41. What is GitHub Copilot used for?
+Answer: Tracking history
+
+Q.42. What is Cursor used for?
+Answer: AI-assisted coding.
+
+Q.43. What is an AI coding assistant?
+Answer: A tool that helps write and debug code.
+
+Q.44. What hardware is commonly used to train large AI models?
+Answer: GPU
+
+Q.45. What does GPU stand for?
+Answer: Graphics Processing Unit
+
+Q.46. What does NPU stand for?
+Answer: Neural Processing Unit
+
+Q.47. What is VRAM used for?
+Answer: Storing data used by the GPU.
+
+Q.48. What does running AI locally mean?
+Answer: Running AI on your own device.
+
+Q.49. What is an open-weight AI model?
+Answer: A model whose weights are publicly available.
+
+Q.50. What is model distillation?
+Answer: Training a smaller model using a larger model.
+
+Section F - Latest AI Awareness & 2026 News
+
+Q.51. Which family includes Astra, Sol and Luna?
+Answer: GPT-6 family
+
+Q.52. Which GPT-6 model is designed for demanding frontier work?
+Answer: GPT-6 Astra
+
+Q.53. Which Claude 5.5 model is designed for complex coding?
+Answer: Claude Opus 5.5
+
+Q.54. Which Claude 5.5 model is designed for fast, lower-cost work?
+Answer: Claude Haiku 5.5
+
+Q.55. What is Google's Gemini 4 flagship called?
+Answer: Gemini 4 Argon
+
+Q.56. Which OpenAI model family handles advanced image generation and editing?
+Answer: GPT Image 2.5
+
+Q.57. What is OpenAI's realtime voice model family?
+Answer: GPT-Live 1
+
+Q.58. Who develops Claude models?
+Answer: Anthropic
+
+Q.59. What is the AI safety risk from hidden malicious instructions?
+Answer: Prompt injection
+
+Q.60. Why should AI-generated important information be verified?
+Answer: AI can make mistakes, so human verification is important.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+lakin answer short bola hai questions wahi rako
+
+
+
+
+
+
+
+
+
+
+
+
+
+Section A - AI Companies & Latest Models
+
+Q.1. ChatGPT is developed by which company?
+Answer: OpenAI
+
+Q.2. Claude is developed by which AI company?
+Answer: Anthropic
+
+Q.3. Gemini is developed by which company?
+Answer: Google
+
+Q.4. Llama models are developed by which company?
+Answer: Meta
+
+Q.5. Grok is developed by which company?
+Answer: xAI
+
+Q.6. Mistral AI is headquartered in which country?
+Answer: USA
+
+Q.7. What is OpenAI's flagship GPT-6 frontier model?
+Answer: GPT-6 Astra
+
+Q.8. Which OpenAI model is lower-cost for coding and professional work?
+Answer: GPT-6 Luna
+
+Q.9. What is Anthropic's latest Haiku model called?
+Answer: Claude Haiku 5.5
+
+Q.10. What is Google's latest flagship Gemini model called?
+Answer: Gemini 4 Argon
+
+Section B - Generative AI & LLM Concepts
+
+Q.11. What does LLM stand for?
+Answer: Large Language Model
+
+Q.12. What is Generative AI?
+Answer: Creates new content.
+
+Q.13. What is a prompt?
+Answer: Instruction to AI.
+
+Q.14. What is a system prompt?
+Answer: Guides AI behavior.
+
+Q.15. What is an AI hallucination?
+Answer: False AI information.
+
+Q.16. What is a token in an LLM?
+Answer: Small text unit.
+
+Q.17. What is a context window?
+Answer: Processable information limit.
+
+Q.18. What is inference in AI?
+Answer: Making predictions.
+
+Q.19. What is fine-tuning?
+Answer: Task-specific model training.
+
+Q.20. What does multimodal AI mean?
+Answer: Handles multiple data types.
+
+Section C - Agents, RAG & Modern AI Development
+
+Q.21. What is an AI agent?
+Answer: AI that performs tasks.
+
+Q.22. Difference between a chatbot and an AI agent?
+Answer: Chatbot responds; agent acts.
+
+Q.23. What does RAG stand for?
+Answer: Retrieval-Augmented Generation
+
+Q.24. Why is RAG used with LLMs?
+Answer: To improve answers with external data.
+
+Q.25. What is an embedding?
+Answer: Numerical data representation.
+
+Q.26. What is a vector database used for?
+Answer: Finding similar data.
+
+Q.27. What does tool calling allow AI to do?
+Answer: Use external tools.
+
+Q.28. What does MCP stand for?
+Answer: Model Context Protocol
+
+Q.29. What is an API key used for?
+Answer: API authentication.
+
+Q.30. What is an agentic workflow?
+Answer: Multi-step AI task execution.
+
+Section D - AI Image, Video, Audio & Tools
+
+Q.31. What does Midjourney generate?
+Answer: Images
+
+Q.32. What is Sora used for?
+Answer: Video generation
+
+Q.33. What is OpenAI's image-generation model family?
+Answer: GPT Image 2.5
+
+Q.34. What is text-to-image?
+Answer: Image from text.
+
+Q.35. What is text-to-video?
+Answer: Video from text.
+
+Q.36. What does TTS stand for?
+Answer: Text-to-Speech
+
+Q.37. What does STT stand for?
+Answer: Simple-to-Text
+
+Q.38. What does OCR do?
+Answer: Extracts text from images.
+
+Q.39. What is a vision-language model?
+Answer: Understands images and language.
+
+Q.40. What is voice cloning?
+Answer: Imitating a person's voice.
+
+Section E - Coding AI, Hardware & Practical Awareness
+
+Q.41. What is GitHub Copilot used for?
+Answer: Tracking history
+
+Q.42. What is Cursor used for?
+Answer: AI-assisted coding.
+
+Q.43. What is an AI coding assistant?
+Answer: Helps write and debug code.
+
+Q.44. What hardware is commonly used to train large AI models?
+Answer: GPU
+
+Q.45. What does GPU stand for?
+Answer: Graphics Processing Unit
+
+Q.46. What does NPU stand for?
+Answer: Neural Processing Unit
+
+Q.47. What is VRAM used for?
+Answer: Storing GPU data.
+
+Q.48. What does running AI locally mean?
+Answer: Running AI on your device.
+
+Q.49. What is an open-weight AI model?
+Answer: Model with public weights.
+
+Q.50. What is model distillation?
+Answer: Training a small model from a large one.
+
+Section F - Latest AI Awareness & 2026 News
+
+Q.51. Which family includes Astra, Sol and Luna?
+Answer: GPT-6 family
+
+Q.52. Which GPT-6 model is designed for demanding frontier work?
+Answer: GPT-6 Astra
+
+Q.53. Which Claude 5.5 model is designed for complex coding?
+Answer: Claude Opus 5.5
+
+Q.54. Which Claude 5.5 model is designed for fast, lower-cost work?
+Answer: Claude Haiku 5.5
+
+Q.55. What is Google's Gemini 4 flagship called?
+Answer: Gemini 4 Argon
+
+Q.56. Which OpenAI model family handles advanced image generation and editing?
+Answer: GPT Image 2.5
+
+Q.57. What is OpenAI's realtime voice model family?
+Answer: GPT-Live 1
+
+Q.58. Who develops Claude models?
+Answer: Anthropic
+
+Q.59. What is the AI safety risk from hidden malicious instructions?
+Answer: Prompt injection
+
+Q.60. Why should AI-generated important information be verified?
+Answer: AI can make mistakes.
